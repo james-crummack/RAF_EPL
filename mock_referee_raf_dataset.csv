@@ -1,0 +1,201 @@
+Match_ID,Referee,Home_Team,Away_Team,Fouls_Home,Fouls_Away,Cards_Home,Cards_Away,Pens_Home,Pens_Away,VAR_Reviews,VAR_Overturns,VAR_Missed,Avg_Review_Time,VAR_Acceptance_Rate,xG_Home,xG_Away,Match_Result
+1,Anthony Taylor,Arsenal,Spurs,12,6,0,2,0,0,0,0,0,86.3,0.84,1.26,1.81,Home Win
+2,Michael Oliver,Man City,Leicester,9,11,1,2,0,0,0,0,0,87.1,0.81,2.02,0.93,Draw
+3,Craig Pawson,Arsenal,Newcastle,8,12,0,2,0,1,0,0,0,136.7,0.84,2.92,2.44,Home Win
+4,Michael Oliver,Leicester,Arsenal,5,3,1,0,0,0,0,0,0,112.9,0.96,0.69,2.97,Draw
+5,Mike Dean,Chelsea,West Ham,13,12,4,1,0,0,2,0,0,112.7,0.93,2.72,1.68,Draw
+6,Paul Tierney,Liverpool,Arsenal,13,13,3,2,0,0,0,0,0,81.5,0.9,2.77,1.12,Away Win
+7,Paul Tierney,Chelsea,Liverpool,9,7,1,0,1,0,3,2,1,84.5,0.85,1.57,2.55,Home Win
+8,Anthony Taylor,Man City,West Ham,14,10,2,1,0,1,0,0,0,90.1,0.87,2.93,2.91,Away Win
+9,Mike Dean,Arsenal,Spurs,7,8,0,2,0,0,0,0,0,94.5,1.0,1.11,2.18,Draw
+10,Anthony Taylor,Man City,West Ham,13,12,3,3,0,0,1,0,0,77.5,0.92,2.19,0.54,Draw
+11,Mike Dean,Man United,Chelsea,10,11,3,2,1,0,0,0,0,89.6,0.93,2.54,1.89,Home Win
+12,Michael Oliver,Spurs,Man City,10,15,1,2,0,1,3,0,2,103.3,0.92,0.52,0.75,Home Win
+13,Craig Pawson,Leeds,Spurs,12,6,3,1,0,0,0,0,0,109.5,0.93,1.92,0.73,Home Win
+14,Paul Tierney,Chelsea,Man United,9,9,2,3,0,0,1,1,0,101.2,0.8,2.11,0.94,Draw
+15,Anthony Taylor,Newcastle,Liverpool,15,8,5,1,0,0,3,1,3,95.9,0.98,2.35,2.24,Home Win
+16,Craig Pawson,West Ham,Spurs,12,8,4,3,1,0,2,1,1,77.9,0.98,1.34,1.44,Draw
+17,Paul Tierney,Arsenal,Chelsea,5,10,1,0,0,0,0,0,0,84.3,0.92,0.71,0.63,Away Win
+18,Craig Pawson,Spurs,Man City,10,11,5,2,0,0,0,0,0,105.2,0.81,2.91,2.59,Draw
+19,Paul Tierney,Leeds,Chelsea,12,6,1,1,0,0,0,0,0,126.8,0.88,1.12,1.39,Draw
+20,Craig Pawson,Liverpool,Spurs,13,5,0,2,0,0,0,0,0,110.5,0.83,1.58,1.5,Home Win
+21,Mike Dean,Spurs,Leicester,11,3,3,0,1,0,0,0,0,96.0,0.99,1.94,1.47,Draw
+22,Craig Pawson,Man United,Chelsea,11,15,0,1,0,0,1,0,1,89.2,0.8,2.54,1.2,Draw
+23,Craig Pawson,Man City,Arsenal,8,12,5,2,0,0,0,0,0,118.3,0.95,0.76,2.76,Home Win
+24,Michael Oliver,Man City,West Ham,10,9,4,0,0,1,2,1,0,88.4,0.87,2.18,2.38,Away Win
+25,Mike Dean,Leicester,Leeds,5,9,1,0,0,0,1,0,1,87.9,0.82,2.97,1.44,Draw
+26,Anthony Taylor,Leicester,Man City,9,13,0,4,0,0,1,0,0,98.5,0.89,0.64,0.8,Draw
+27,Paul Tierney,Spurs,Man City,12,18,2,6,0,1,0,0,0,96.0,1.0,0.68,1.88,Home Win
+28,Craig Pawson,Arsenal,Spurs,11,9,2,3,0,0,3,1,0,109.8,0.89,1.38,1.96,Draw
+29,Anthony Taylor,Spurs,Leicester,10,13,1,5,0,1,2,2,1,112.7,1.0,0.88,1.99,Home Win
+30,Paul Tierney,Liverpool,Leicester,10,8,3,3,1,1,3,1,1,88.0,0.83,2.89,2.02,Draw
+31,Paul Tierney,Leeds,Arsenal,7,11,0,3,0,0,2,1,1,79.7,0.81,2.39,2.05,Away Win
+32,Paul Tierney,Chelsea,Arsenal,12,6,2,1,0,0,1,0,1,91.0,0.88,2.06,2.66,Draw
+33,Anthony Taylor,Man City,Leeds,17,16,2,3,1,0,0,0,0,100.5,0.84,1.36,2.74,Draw
+34,Michael Oliver,Liverpool,Leeds,10,6,0,0,0,0,0,0,0,80.9,0.84,1.41,1.76,Away Win
+35,Mike Dean,Newcastle,West Ham,12,13,1,4,1,0,0,0,0,87.0,0.87,1.71,2.05,Draw
+36,Michael Oliver,West Ham,Spurs,9,12,1,3,1,0,1,0,0,86.4,0.85,1.17,1.44,Away Win
+37,Mike Dean,Leeds,Man City,7,6,2,2,0,0,0,0,0,88.4,0.83,1.21,1.41,Home Win
+38,Anthony Taylor,Man United,Arsenal,11,11,1,1,0,0,0,0,0,118.7,0.98,0.7,1.81,Draw
+39,Michael Oliver,Arsenal,Man City,5,13,0,3,1,0,1,1,0,83.6,0.9,1.11,0.79,Home Win
+40,Anthony Taylor,Arsenal,Man United,11,11,2,2,0,0,0,0,0,67.9,0.86,2.52,1.14,Draw
+41,Michael Oliver,Spurs,Leeds,11,9,4,3,1,0,2,0,1,112.5,0.83,2.49,1.0,Draw
+42,Michael Oliver,Newcastle,Leeds,6,13,1,2,1,0,1,0,0,98.8,0.86,2.37,1.76,Away Win
+43,Craig Pawson,Chelsea,Man City,9,15,0,6,0,0,0,0,0,109.5,0.96,0.88,1.28,Draw
+44,Craig Pawson,West Ham,Man United,7,8,0,3,0,0,1,0,1,96.2,0.94,2.1,2.23,Away Win
+45,Anthony Taylor,Arsenal,Man City,10,8,4,2,0,0,1,0,0,92.0,0.97,2.83,1.91,Draw
+46,Paul Tierney,Man City,Chelsea,12,11,2,3,1,1,1,1,1,95.7,0.82,2.8,2.67,Home Win
+47,Mike Dean,Liverpool,Leeds,10,9,1,3,0,0,1,1,0,114.1,0.89,1.06,1.63,Home Win
+48,Paul Tierney,Leeds,Chelsea,6,10,3,1,0,0,0,0,0,82.7,0.99,0.87,1.54,Away Win
+49,Mike Dean,Man City,Arsenal,10,7,0,1,0,0,1,0,0,113.7,0.83,0.95,2.65,Home Win
+50,Michael Oliver,West Ham,Liverpool,17,8,3,0,0,0,1,0,0,63.9,0.93,0.55,0.76,Away Win
+51,Michael Oliver,West Ham,Arsenal,13,11,1,1,0,1,1,1,0,103.9,0.8,0.71,1.02,Away Win
+52,Anthony Taylor,Spurs,West Ham,11,8,2,2,0,0,1,0,0,90.4,0.99,2.41,0.85,Away Win
+53,Craig Pawson,Leicester,Leeds,14,9,2,2,0,0,0,0,0,75.7,0.85,0.55,2.79,Home Win
+54,Paul Tierney,Chelsea,Arsenal,5,8,1,3,0,0,0,0,0,96.5,0.92,2.0,2.16,Draw
+55,Paul Tierney,Newcastle,Arsenal,9,10,1,3,0,0,0,0,0,115.1,0.86,1.92,1.69,Draw
+56,Mike Dean,Liverpool,Arsenal,12,11,2,2,0,0,0,0,0,81.7,0.9,2.22,1.59,Home Win
+57,Anthony Taylor,Newcastle,Man City,13,8,2,0,1,0,2,1,1,107.3,0.93,2.23,2.62,Away Win
+58,Anthony Taylor,Newcastle,Chelsea,7,16,2,6,0,0,1,1,0,104.3,0.98,2.93,2.86,Draw
+59,Anthony Taylor,Leicester,West Ham,10,14,3,0,0,0,0,0,0,113.8,0.81,1.29,1.85,Away Win
+60,Michael Oliver,Chelsea,Man United,13,11,0,4,0,1,4,2,1,81.6,0.9,2.07,2.68,Away Win
+61,Michael Oliver,Leeds,Spurs,9,12,0,2,0,0,0,0,0,94.5,0.88,2.2,1.05,Home Win
+62,Anthony Taylor,Leeds,Man City,5,10,0,5,0,1,2,0,0,98.5,0.84,0.97,2.45,Draw
+63,Michael Oliver,Leicester,Spurs,8,6,2,2,0,0,0,0,0,118.2,0.82,2.69,1.16,Away Win
+64,Anthony Taylor,Man United,Chelsea,17,13,4,1,0,0,0,0,0,121.9,0.82,1.05,2.21,Home Win
+65,Craig Pawson,Leicester,Spurs,10,11,1,3,0,0,4,2,2,111.0,0.92,2.38,0.9,Draw
+66,Mike Dean,Spurs,Man City,6,12,2,4,0,0,0,0,0,112.5,0.93,1.15,2.09,Away Win
+67,Anthony Taylor,Man City,Leicester,10,8,4,0,1,0,0,0,0,97.0,0.87,2.05,0.61,Away Win
+68,Paul Tierney,Chelsea,Newcastle,6,8,2,2,0,0,2,0,1,84.5,0.94,1.05,0.71,Home Win
+69,Paul Tierney,Leeds,Leicester,12,6,5,1,0,0,0,0,0,91.4,0.84,0.58,2.13,Home Win
+70,Anthony Taylor,West Ham,Spurs,9,7,3,2,0,0,1,0,1,100.3,0.92,2.49,1.7,Home Win
+71,Paul Tierney,Liverpool,Spurs,5,12,0,2,0,0,0,0,0,90.8,0.81,1.48,1.7,Draw
+72,Craig Pawson,Leicester,West Ham,11,13,2,1,0,1,0,0,0,94.6,0.94,1.9,0.52,Home Win
+73,Anthony Taylor,Liverpool,Leicester,8,5,0,0,0,0,2,0,0,99.1,0.94,0.58,2.84,Away Win
+74,Mike Dean,Liverpool,Leicester,8,10,1,2,0,0,0,0,0,83.0,0.83,2.68,1.05,Home Win
+75,Anthony Taylor,Spurs,Man United,7,11,1,3,0,1,2,1,0,111.4,0.95,2.36,1.56,Away Win
+76,Michael Oliver,Man City,Chelsea,8,14,1,4,0,1,2,1,2,93.3,0.84,2.06,2.08,Draw
+77,Craig Pawson,Newcastle,Liverpool,12,6,5,0,1,0,0,0,0,61.5,0.92,0.91,1.48,Home Win
+78,Michael Oliver,West Ham,Arsenal,19,11,5,1,1,0,0,0,0,98.5,0.9,1.34,2.57,Draw
+79,Paul Tierney,Chelsea,West Ham,9,11,1,1,0,0,1,1,1,110.5,0.84,0.78,1.17,Home Win
+80,Anthony Taylor,Arsenal,West Ham,16,6,6,1,0,0,0,0,0,98.6,0.8,2.88,2.1,Home Win
+81,Michael Oliver,Man United,Leeds,14,10,3,1,0,0,1,1,1,99.1,0.89,2.67,0.94,Home Win
+82,Michael Oliver,Chelsea,Arsenal,10,14,0,5,0,0,0,0,0,85.2,0.93,0.77,2.14,Away Win
+83,Paul Tierney,Spurs,Man City,11,14,2,3,0,0,1,1,0,92.4,0.86,1.42,1.49,Draw
+84,Mike Dean,Leicester,West Ham,12,9,2,1,0,0,2,1,1,95.2,0.9,1.7,0.56,Home Win
+85,Anthony Taylor,Liverpool,Spurs,8,9,2,2,0,0,2,0,0,106.4,0.85,2.82,0.65,Home Win
+86,Anthony Taylor,West Ham,Newcastle,16,5,2,0,0,0,1,1,1,99.2,0.85,1.53,0.8,Draw
+87,Paul Tierney,West Ham,Leicester,7,7,2,0,0,0,3,0,1,96.8,0.96,2.71,1.07,Away Win
+88,Mike Dean,Chelsea,Spurs,7,9,3,1,0,0,0,0,0,103.1,0.93,0.74,2.06,Draw
+89,Craig Pawson,Arsenal,Leicester,9,14,0,0,0,0,1,0,0,99.7,0.83,2.24,1.51,Away Win
+90,Craig Pawson,Man United,Man City,9,6,2,1,0,0,0,0,0,95.0,0.86,1.07,1.39,Draw
+91,Anthony Taylor,Leicester,Spurs,4,7,2,2,0,0,0,0,0,105.4,0.95,1.66,0.65,Draw
+92,Craig Pawson,West Ham,Man United,7,5,2,1,0,0,1,0,0,124.2,1.0,2.82,1.85,Draw
+93,Michael Oliver,West Ham,Chelsea,14,11,4,1,0,0,1,0,0,84.4,0.99,1.88,1.26,Draw
+94,Michael Oliver,Spurs,Newcastle,9,11,4,2,1,1,0,0,0,91.4,0.96,1.45,2.69,Draw
+95,Anthony Taylor,Spurs,Newcastle,13,5,1,1,0,1,2,2,2,132.0,0.95,0.94,1.76,Away Win
+96,Mike Dean,Man United,Newcastle,9,9,0,1,1,0,2,1,0,90.5,0.82,2.1,1.04,Away Win
+97,Craig Pawson,Leicester,Chelsea,11,6,3,1,0,1,0,0,0,86.5,0.82,1.26,0.75,Draw
+98,Michael Oliver,Spurs,Man City,12,13,2,3,0,0,0,0,0,88.8,0.84,1.42,1.54,Home Win
+99,Michael Oliver,Spurs,Chelsea,13,13,2,2,0,0,1,0,0,94.8,0.82,1.87,1.64,Home Win
+100,Anthony Taylor,Chelsea,Arsenal,14,10,2,3,0,0,1,1,1,103.7,0.99,2.47,1.29,Draw
+101,Anthony Taylor,Leeds,West Ham,12,10,3,4,0,0,0,0,0,96.3,0.94,0.6,0.71,Draw
+102,Craig Pawson,Leeds,West Ham,12,4,5,1,0,0,0,0,0,120.8,0.84,0.94,0.75,Home Win
+103,Anthony Taylor,Man City,West Ham,8,8,2,1,0,0,2,1,0,116.8,0.95,2.53,2.14,Home Win
+104,Mike Dean,Leeds,Arsenal,6,16,1,3,0,0,1,0,0,122.0,0.98,2.11,1.21,Home Win
+105,Craig Pawson,Leeds,Liverpool,7,10,2,3,0,0,3,0,0,107.2,0.84,1.76,2.6,Away Win
+106,Mike Dean,West Ham,Leicester,12,11,2,2,0,1,2,1,0,103.7,0.85,2.32,2.98,Home Win
+107,Craig Pawson,Leeds,Spurs,5,13,1,3,0,0,0,0,0,73.3,0.83,1.26,2.69,Draw
+108,Paul Tierney,Leicester,Leeds,9,14,1,2,0,0,1,1,0,78.4,0.92,1.7,2.11,Away Win
+109,Craig Pawson,Man City,Spurs,4,11,1,3,0,0,2,0,0,105.4,0.96,1.79,1.6,Away Win
+110,Paul Tierney,Man United,Leicester,6,9,0,2,0,1,2,1,1,109.3,0.82,1.52,2.6,Home Win
+111,Michael Oliver,Chelsea,West Ham,9,11,1,2,0,0,1,0,0,110.5,0.97,0.97,2.51,Draw
+112,Michael Oliver,West Ham,Man City,10,6,3,1,0,0,1,1,0,92.1,0.95,2.14,2.89,Away Win
+113,Mike Dean,Leeds,West Ham,4,8,0,3,0,0,1,1,0,87.1,0.81,2.77,0.85,Home Win
+114,Craig Pawson,Arsenal,West Ham,10,18,4,1,0,0,2,1,0,94.8,0.91,1.66,2.93,Away Win
+115,Anthony Taylor,Spurs,Man United,11,5,1,0,1,0,1,1,1,97.6,0.91,0.7,1.65,Away Win
+116,Mike Dean,Chelsea,Leicester,10,12,2,3,0,0,2,0,1,89.5,0.84,1.15,0.91,Home Win
+117,Paul Tierney,West Ham,Leeds,8,10,3,4,1,0,2,0,0,108.2,0.91,1.74,0.76,Away Win
+118,Paul Tierney,Liverpool,West Ham,11,9,5,1,0,0,2,1,0,93.8,0.98,1.83,0.89,Home Win
+119,Mike Dean,Arsenal,Leicester,8,15,4,1,0,0,2,1,1,95.4,0.99,1.54,2.96,Draw
+120,Mike Dean,Man City,Arsenal,12,9,0,2,0,0,1,1,0,116.2,0.97,2.55,1.85,Home Win
+121,Craig Pawson,Arsenal,Liverpool,12,10,2,1,0,0,0,0,0,86.5,0.87,1.63,2.37,Away Win
+122,Paul Tierney,Leeds,Chelsea,11,8,2,4,0,0,1,1,0,88.8,0.83,2.64,1.07,Away Win
+123,Craig Pawson,West Ham,Spurs,14,11,3,1,0,0,0,0,0,100.3,0.96,2.16,1.15,Home Win
+124,Craig Pawson,Arsenal,Leicester,15,11,3,2,1,0,2,1,0,102.3,0.95,2.8,1.2,Away Win
+125,Michael Oliver,Man City,Arsenal,14,15,4,0,1,0,0,0,0,100.5,0.82,1.1,0.53,Home Win
+126,Michael Oliver,Arsenal,Liverpool,10,11,1,3,0,1,2,2,0,122.6,0.82,1.1,2.49,Home Win
+127,Craig Pawson,Chelsea,Man City,10,5,4,1,0,1,1,0,0,117.1,0.92,2.73,1.61,Draw
+128,Paul Tierney,Man United,Liverpool,11,11,1,2,0,0,1,1,0,89.7,0.95,1.77,2.09,Home Win
+129,Paul Tierney,Arsenal,Man City,4,9,0,1,0,1,0,0,0,72.4,0.84,1.79,0.51,Draw
+130,Craig Pawson,West Ham,Chelsea,2,8,0,2,0,1,1,1,0,106.4,0.87,1.77,2.69,Draw
+131,Michael Oliver,Man City,Spurs,10,8,2,1,1,0,1,1,1,87.8,0.85,0.65,2.01,Draw
+132,Anthony Taylor,Leicester,Man United,12,9,2,0,0,0,0,0,0,97.2,0.99,2.17,2.2,Draw
+133,Paul Tierney,Leicester,Man City,9,15,3,4,0,1,0,0,0,94.5,0.86,1.72,1.94,Home Win
+134,Craig Pawson,Man City,Leeds,2,10,1,2,0,0,1,0,0,91.9,0.96,1.62,2.5,Away Win
+135,Craig Pawson,Liverpool,West Ham,15,8,2,2,0,0,1,0,0,90.4,0.83,0.56,2.11,Draw
+136,Mike Dean,Leicester,Spurs,11,4,1,1,0,0,0,0,0,106.7,0.94,0.85,1.71,Away Win
+137,Craig Pawson,Spurs,Newcastle,18,2,3,0,0,0,1,1,0,93.6,0.98,2.01,2.57,Home Win
+138,Anthony Taylor,Spurs,Leeds,18,9,4,1,0,0,2,0,0,98.4,0.84,0.64,1.36,Away Win
+139,Mike Dean,West Ham,Newcastle,10,11,2,3,0,0,3,1,0,88.0,0.9,1.86,1.07,Home Win
+140,Craig Pawson,Liverpool,Man United,12,14,3,1,0,0,2,1,2,93.4,0.9,2.66,1.97,Home Win
+141,Paul Tierney,Man United,Spurs,9,7,1,1,0,0,2,1,1,103.3,0.84,0.77,2.63,Draw
+142,Paul Tierney,Leicester,Arsenal,9,15,3,3,0,0,1,0,0,96.3,0.94,2.23,0.84,Home Win
+143,Michael Oliver,West Ham,Leeds,8,13,1,5,0,1,2,0,1,102.7,0.83,2.38,2.42,Draw
+144,Craig Pawson,Leeds,Newcastle,11,14,1,3,0,0,1,0,0,105.7,0.96,2.87,0.68,Home Win
+145,Paul Tierney,Chelsea,West Ham,17,8,3,2,0,0,0,0,0,83.5,0.96,2.82,1.51,Away Win
+146,Mike Dean,Leeds,Man United,15,10,3,5,0,0,1,1,0,80.9,0.89,1.96,2.06,Away Win
+147,Mike Dean,Newcastle,Man United,7,10,0,3,0,0,0,0,0,85.6,0.86,2.27,0.66,Away Win
+148,Paul Tierney,Spurs,Chelsea,14,7,2,0,0,0,1,1,1,95.2,0.89,2.77,1.44,Draw
+149,Michael Oliver,Man United,Man City,18,12,3,3,0,0,0,0,0,96.3,0.86,0.76,2.45,Home Win
+150,Michael Oliver,Spurs,Leeds,11,9,2,1,0,0,1,0,1,98.0,0.88,2.56,2.63,Home Win
+151,Michael Oliver,Chelsea,Spurs,7,10,1,3,0,0,0,0,0,111.1,0.88,2.28,1.0,Home Win
+152,Paul Tierney,Arsenal,Leicester,15,9,1,2,0,0,0,0,0,74.5,0.8,0.81,1.53,Away Win
+153,Anthony Taylor,Leicester,Arsenal,10,10,0,2,1,0,1,1,1,101.6,0.83,0.54,2.43,Draw
+154,Michael Oliver,Leeds,Man City,13,8,2,2,0,0,1,0,0,95.3,0.99,2.62,0.56,Draw
+155,Paul Tierney,Newcastle,Leeds,13,9,1,1,0,0,1,0,1,95.3,0.99,0.69,1.41,Away Win
+156,Michael Oliver,Spurs,Arsenal,7,6,2,1,0,0,1,1,0,98.5,0.87,2.79,1.23,Home Win
+157,Anthony Taylor,West Ham,Leeds,10,12,1,0,0,0,0,0,0,95.1,0.94,0.69,1.19,Draw
+158,Anthony Taylor,Newcastle,Liverpool,13,10,0,1,0,0,0,0,0,70.6,0.96,2.63,1.1,Home Win
+159,Michael Oliver,Leicester,Man City,18,11,3,2,0,0,1,1,1,101.4,0.95,0.9,1.69,Draw
+160,Mike Dean,Chelsea,Newcastle,12,11,1,2,0,0,0,0,0,95.3,0.99,1.07,2.09,Away Win
+161,Craig Pawson,West Ham,Spurs,7,5,0,1,0,0,0,0,0,85.3,0.88,2.39,2.8,Draw
+162,Mike Dean,Arsenal,Man City,17,9,2,2,0,0,0,0,0,114.8,0.82,1.76,1.05,Draw
+163,Michael Oliver,Spurs,Man City,2,11,0,2,0,0,0,0,0,92.2,0.96,1.69,1.74,Home Win
+164,Michael Oliver,Leicester,Man City,7,7,3,0,0,0,2,1,1,108.8,0.87,2.23,2.43,Home Win
+165,Craig Pawson,Newcastle,Leeds,11,14,1,2,0,0,1,0,0,84.0,0.86,1.08,0.5,Home Win
+166,Michael Oliver,Newcastle,Spurs,7,9,1,2,0,0,1,1,1,79.7,0.95,1.48,1.98,Home Win
+167,Michael Oliver,Chelsea,Spurs,12,10,1,3,0,1,0,0,0,110.8,0.95,0.76,1.78,Home Win
+168,Mike Dean,Liverpool,Chelsea,10,12,2,4,0,0,1,1,0,80.0,0.87,1.34,2.95,Home Win
+169,Anthony Taylor,Liverpool,Arsenal,12,17,2,2,0,0,1,1,0,72.2,0.94,2.54,1.87,Draw
+170,Mike Dean,Spurs,Leeds,19,10,6,1,0,0,1,1,0,89.6,0.86,1.23,2.68,Away Win
+171,Paul Tierney,Spurs,West Ham,7,11,3,0,0,0,1,0,0,72.2,0.95,1.51,0.67,Away Win
+172,Anthony Taylor,Arsenal,Newcastle,13,9,2,0,0,1,2,0,0,111.7,0.95,0.75,1.19,Draw
+173,Paul Tierney,Newcastle,Spurs,8,22,2,3,1,0,1,1,0,78.4,0.85,1.01,1.71,Home Win
+174,Michael Oliver,Arsenal,Newcastle,8,11,0,5,0,0,2,0,0,70.1,0.99,1.13,2.19,Draw
+175,Anthony Taylor,Leeds,Liverpool,12,8,3,3,1,0,0,0,0,91.8,0.92,2.25,2.2,Away Win
+176,Michael Oliver,West Ham,Newcastle,9,11,2,5,0,0,0,0,0,99.2,0.82,0.52,1.58,Home Win
+177,Craig Pawson,West Ham,Man United,5,15,0,3,0,0,1,1,0,87.5,0.84,2.69,2.35,Away Win
+178,Anthony Taylor,Man United,Liverpool,7,7,1,2,0,0,0,0,0,99.0,0.96,2.56,2.83,Draw
+179,Craig Pawson,Spurs,West Ham,10,11,3,2,0,0,2,0,0,99.6,0.96,1.64,2.08,Away Win
+180,Anthony Taylor,Spurs,Man United,7,9,2,4,0,0,0,0,0,105.8,0.86,1.76,0.64,Home Win
+181,Craig Pawson,Arsenal,Leicester,9,7,1,0,0,0,3,1,0,96.5,0.91,1.39,1.38,Away Win
+182,Anthony Taylor,Leicester,Chelsea,13,17,2,3,1,1,0,0,0,70.1,0.9,0.98,2.65,Draw
+183,Craig Pawson,Leeds,Arsenal,9,6,1,2,0,0,0,0,0,96.7,0.83,0.71,0.55,Away Win
+184,Mike Dean,Spurs,Liverpool,7,5,1,1,0,0,1,0,1,121.2,0.92,1.89,1.54,Draw
+185,Craig Pawson,Man City,Arsenal,9,12,1,2,0,1,1,0,0,90.0,0.83,2.23,1.02,Draw
+186,Michael Oliver,Spurs,Leicester,9,7,1,0,0,0,1,1,0,83.2,0.85,0.52,2.31,Draw
+187,Craig Pawson,Man City,Chelsea,10,10,3,2,0,1,2,1,1,94.4,0.81,2.69,1.47,Away Win
+188,Anthony Taylor,Leeds,Liverpool,4,4,1,1,1,0,0,0,0,95.9,0.87,0.67,1.42,Draw
+189,Paul Tierney,Leeds,West Ham,10,11,0,1,0,0,0,0,0,84.0,0.95,1.96,2.45,Home Win
+190,Craig Pawson,Liverpool,Leicester,10,12,3,1,0,1,3,2,2,96.2,0.92,2.08,0.89,Home Win
+191,Mike Dean,Leicester,Liverpool,10,8,1,1,0,0,2,0,1,112.3,0.93,2.49,1.18,Away Win
+192,Craig Pawson,Leicester,Man United,12,16,2,2,0,0,0,0,0,88.7,0.93,2.54,2.45,Home Win
+193,Paul Tierney,Spurs,Leeds,13,5,2,1,0,0,0,0,0,86.9,0.93,1.31,2.74,Away Win
+194,Mike Dean,Man United,Leeds,15,7,1,0,1,0,4,0,1,96.0,0.83,0.56,1.4,Draw
+195,Mike Dean,Leeds,West Ham,13,8,1,0,0,0,1,1,0,125.2,0.97,1.97,1.95,Home Win
+196,Michael Oliver,Newcastle,West Ham,9,9,2,4,1,0,1,1,1,110.4,0.93,2.51,2.29,Away Win
+197,Anthony Taylor,Leeds,Man United,11,9,3,1,1,0,1,1,0,83.9,0.93,2.0,0.95,Away Win
+198,Michael Oliver,Leeds,Arsenal,12,6,3,1,0,0,3,1,0,87.7,0.91,1.19,2.8,Draw
+199,Mike Dean,Man City,Man United,11,9,0,1,0,0,3,2,2,104.4,0.86,2.51,2.99,Home Win
+200,Mike Dean,Leeds,Arsenal,10,4,0,3,0,1,1,0,0,82.9,0.84,1.07,1.67,Away Win
